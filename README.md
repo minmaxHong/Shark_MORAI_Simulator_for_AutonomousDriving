@@ -1,5 +1,6 @@
 # Shark MORAI Competition
 I won the Excellence Award at the Shark MORAI competition, and it is the code for the preliminary and final matches.
+![image](https://github.com/user-attachments/assets/b1729515-7392-4749-bba4-82bca60295ed)
 
 
 ## Introduction
