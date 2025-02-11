@@ -4,7 +4,7 @@ I won the Excellence Award at the Shark MORAI competition, and it is the code fo
 
 
 ## Introduction
-A total of 100 students participated, and 신희승, 홍성민, 박종명, 조영우, 이승진 participated in the MACARON team of Dongguk University.
+A total of 100 students participated, and 신희승, 홍성민, 박종명, 조영우, 권세빈, 이승진 participated in the MACARON team of Dongguk University.
 
 For more information, please check out the news.
 [MORAI 디지털트윈 성남시 기반 SHARK 자율주행대회 성료](https://www.morai.ai/ko/post/%EB%AA%A8%EB%9D%BC%EC%9D%B4-%EB%94%94%EC%A7%80%ED%84%B8%ED%8A%B8%EC%9C%88-%EC%84%B1%EB%82%A8%EC%8B%9C-%EA%B8%B0%EB%B0%98-%EC%83%A4%ED%81%AC%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%EB%8C%80%ED%9A%8C-%EC%84%B1%EB%A3%8C)
